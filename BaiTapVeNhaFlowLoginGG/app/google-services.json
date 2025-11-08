@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21657123265",
+    "project_id": "baitapflowlogingg",
+    "storage_bucket": "baitapflowlogingg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21657123265:android:4261273b12625fa1481740",
+        "android_client_info": {
+          "package_name": "com.uth.baitapvenhaflowlogingg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21657123265-pqhhe2qpfsjehjs97h2k3jo0hr7591og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uth.baitapvenhaflowlogingg",
+            "certificate_hash": "9d05506b6bcc996d330f953cf23fd8d9602fae28"
+          }
+        },
+        {
+          "client_id": "21657123265-frgop02a6jq1m35gl92lu9utb1opl94f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabl5k73Sk0AS_6PkL8npARA_HVwzgvno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21657123265-frgop02a6jq1m35gl92lu9utb1opl94f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
